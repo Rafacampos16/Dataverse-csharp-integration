@@ -48,11 +48,16 @@ Após configurar as variáveis, reinicie o Visual Studio antes de executar o pro
 
 ## 📂 Estrutura do Projeto
 PrimeiroConsole/
-├── Program.cs
-├── Connection.cs
-├── Services/
-├── Models/
-└── Utils/
+├── PrimeiroConsole.slnx
+├── PrimeiroConsole/
+│   ├── Program.cs
+│   ├── Connection.cs
+│   ├── Models/
+│   ├── Services/
+│   └── Utils/
+├── .gitignore
+└── README.md
+
 
 *(A estrutura pode variar conforme a evolução do projeto)*
 
